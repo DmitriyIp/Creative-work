@@ -10,3 +10,9 @@
 2. Задача Коммивояжёра.
 
 Использовался SFML
+
+Ссылка на установку SFML:
+https://www.sfml-dev.org/download/sfml/2.5.1/
+
+Руководство по установке SFML:
+https://proglib.io/p/pervyy-igrovoy-dvizhok-na-s-i-sfml-2019-11-19
