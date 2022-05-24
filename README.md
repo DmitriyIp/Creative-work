@@ -4,6 +4,7 @@
 # Калькулятор системы уравнения с тремя неизвестными переменными.
 
 Инструменты, которые использовались при работе над калькулятором: Windows Forms
+
 Как установить?
 ![guide1](https://user-images.githubusercontent.com/91135391/170021571-f5b5358e-f488-4eff-8e09-725f51c564c3.jpg)
 ![guide2](https://user-images.githubusercontent.com/91135391/170021603-782a3b3f-797a-4037-b08b-ce99b43b528f.jpg)
